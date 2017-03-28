@@ -7,6 +7,8 @@ A tl;dr checklist to guide your workflow for your new Django App
 - Install virtualenv `pip install virtualenv`
 - `pip install django`
 
+## Project Set Up
+
 ### Init new django project
 
 - `mkdir <django_project_name>`
